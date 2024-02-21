@@ -21,20 +21,16 @@ This project implements a basic user authentication system using PHP and MySQL. 
 <table>
 
   <tr>
-    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/ec293fc6-055d-4c00-bc61-bc6adf107cad
-"></td>
-    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/0a8acc83-9397-43da-8328-04b61d59244a
-"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/ec293fc6-055d-4c00-bc61-bc6adf107cad"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/0a8acc83-9397-43da-8328-04b61d59244a"></td>
     </td>
   </tr>
  </table>
 <table>
 &nbsp;
   <tr>
-    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/707846ae-f740-4576-90aa-da45c6102f4e
-"></td>
-    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/fca7b89b-b893-4a8e-be50-189cfc5c5bbb
-"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/707846ae-f740-4576-90aa-da45c6102f4e"></td>
+    <td valign="top"><img src="https://github.com/ganesh-vallabhareddy/User-Authentication-system-PHP/assets/110174850/fca7b89b-b893-4a8e-be50-189cfc5c5bbb"></td>
     </td>
   </tr>
  </table>
